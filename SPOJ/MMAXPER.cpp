@@ -7,6 +7,7 @@ int dp[maxn][2];
 int a[maxn], b[maxn];
 
 int main() {
+	//freopen("in.txt", "r", stdin);
 	int n; scanf("%d", &n);
 	scanf("%d%d", &a[0], &b[0]);
 	dp[0][0] = a[0], dp[0][1] = b[0];

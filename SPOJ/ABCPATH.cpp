@@ -25,7 +25,6 @@ void dfs(int x, int y, int d) {
 }
 
 int main() {
-	freopen("in.txt", "r", stdin);
 	while(1) {
 		cin >> r >> c;
 		if(r == 0) return 0;
