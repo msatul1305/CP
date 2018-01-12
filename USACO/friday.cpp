@@ -8,8 +8,6 @@ LANG: C++11
 using namespace std;
 int main()
 {
-    ios_base::sync_with_stdio(0);
-    cin.tie(NULL);
     freopen("friday.in","r",stdin);
     freopen("friday.out","w",stdout);
     int n;

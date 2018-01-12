@@ -9,7 +9,6 @@ using namespace std;
 int num(char *);
 int main()
 {
-    ios_base::sync_with_stdio(0);
     char comet[50],group[50];
     freopen("ride.in","r",stdin);
     freopen("ride.out","w",stdout);

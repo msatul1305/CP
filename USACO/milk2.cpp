@@ -9,7 +9,6 @@ using namespace std;
 bool editor(const pair<int,int> &a,const pair<int,int> &b) {return a.first<b.first;}
 
 int main() {
-	//freopen("in.txt","r",stdin);
 	freopen("milk2.in","r",stdin);
 	freopen("milk2.out","w",stdout);
 	int t; cin >> t;
