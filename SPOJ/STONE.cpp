@@ -1,4 +1,3 @@
-//https://en.wikipedia.org/wiki/Centroid#Centroid_of_a_polygon
 #include <iostream>
 #include <vector>
 #include <cmath>
