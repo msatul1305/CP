@@ -27,7 +27,7 @@
 [Depth First Search](/dat/dfs.md)
 
 ## OTHERS
-[Fast IO(non-negative I)](fio.md)  
+[Fast IO(non-negative I)](/dat/fio.md)  
 [Generating Subsets](/dat/ss.md)  
 [Binary Search](/dat/bs.md)  
 [Matrix Rotations](/dat/matrot.md)
