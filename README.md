@@ -1,2 +1,2 @@
 # CP
-my competitive programming library and solutions.
+my competitive programming notes and solutions.

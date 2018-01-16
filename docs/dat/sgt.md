@@ -73,7 +73,7 @@ void build(int v, int l, int r) {
 }
 
 node query(int v, int tl, int tr, int l, int r) {
-	if(l > r) return make(-16000);// MODIFY THIS ACCORDINGLY!!
+	if(l > r) return make(-16000);// MODIFY THIS AS REQUIRED
 	if(l == tl && r == tr) return tree[v];
 	int tm = (tl + tr)>>1;
 	return combine(query(v<<1, tl, tm, l, min(r, tm)),
@@ -99,8 +99,8 @@ build(1, 0, n - 1);
 update(1, 0, n-1, k, val)
 query(1, 0, n - 1, u, v)
 ```
-where **n** is the no of elements of the input array
-**u** is the left boundary & **v** is the right boundary
+where **n** is the no of elements of the input array  
+**u** is the left boundary & **v** is the right boundary  
 **k** is the index at which an element is to be updated with **val**.
 
 ## LAZY PROPAGATION : 

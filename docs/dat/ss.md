@@ -1,6 +1,6 @@
 ## GENERATING SUBSETS
 
-(1 << 4) = 4 digits 0 to 15
+(1 << 4) = 4 digits 0 to 15  
 (1 << 3) = 3 digits 0 to 7
 
 
@@ -21,6 +21,8 @@ void search() {
 
 ### USING RECURSION
 ```cpp
+int n = 4;
+
 void search(int k) {
 	if(k == n) {
 		//process(v);

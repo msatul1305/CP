@@ -1,6 +1,6 @@
 # Breadth-first Search
 
-Time Complexity : **O(V + E)**
+Time Complexity : **O( V + E )**
 
 BFS : At 0th step the starting node is on fire. At each step fire spreads to all of the burning node's vertices.
 ```cpp

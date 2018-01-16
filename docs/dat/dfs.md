@@ -1,8 +1,8 @@
-# Breadth-first Search
+# Depth-first Search
 
-Time Complexity : **O(V + E)**
+Time Complexity : **O( V + E )**
 
-BFS : Lexicographically finds the path from source vertex to other vertices.
+DFS : Lexicographically finds the path from source vertex to other vertices.
 
 ```cpp
 vector< vector<int> > G;
