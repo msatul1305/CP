@@ -4,7 +4,7 @@
 (1 << 3) = 3 digits 0 to 7
 
 
-### USING BITMASKING
+### USING BITMASK
 ```cpp
 void search() {
 	int n = 4;
