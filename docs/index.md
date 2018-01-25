@@ -20,6 +20,7 @@
 [Segment Tree](/dat/sgt.md)  
 [Fenwick Tree](/dat/bit.md)  
 [Partial Sums](/dat/ps.md)
+[Union-Find](/dat/uf.md)
 
 ## GRAPHS
 [GRAPH TOOL](https://csacademy.com/app/graph_editor/)  
