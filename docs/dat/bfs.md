@@ -2,7 +2,7 @@
 
 Time Complexity : **O( V + E )**
 
-BFS : At 0th step the starting node is on fire. At each step fire spreads to all of the burning node's vertices.
+BFS : At 0th step the starting node is on fire. At each step fire spreads to all the connected vertices.
 ```cpp
 vector< vector<int> > G;
 int n, s;
