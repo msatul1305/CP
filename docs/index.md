@@ -19,13 +19,13 @@
 ## DATA STRUCTURES
 [Segment Tree](/dat/sgt.md)  
 [Fenwick Tree](/dat/bit.md)  
-[Partial Sums](/dat/ps.md)
-[Union-Find](/dat/uf.md)
+[Partial Sums](/dat/ps.md)  
+[Union-Find](/dat/uf.md)  
 
 ## GRAPHS
 [GRAPH TOOL](https://csacademy.com/app/graph_editor/)  
 [Breadth First Search](/dat/bfs.md)  
-[Depth First Search](/dat/dfs.md)
+[Depth First Search](/dat/dfs.md)  
 
 ## OTHERS
 [Fast IO(non-negative I)](/dat/fio.md)  
