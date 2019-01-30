@@ -1,0 +1,8 @@
+syntax on
+set softtabstop=2
+set shiftwidth=2
+set nu
+set ai
+set expandtab
+set smarttab
+set cindent
